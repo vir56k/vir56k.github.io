@@ -1,1 +1,96 @@
-hello world
+<html>
+<head>
+<title>json string to gson bean string</title>
+<style type="text/css">
+body{
+	padding:0px;
+	margin:0px;
+}
+div {
+	padding:0px;
+	margin:0px;
+}
+.head1 {
+	background-color: #12B5AE;
+	width:100%;}
+.head1 p{
+	padding:10px;
+	font-size:18px;
+	color:white;
+}
+.body1{
+	 width:100%;
+	 overflow:none;
+}
+.left{
+	float:left;
+	width:48%;
+	height:500px;
+	 margin-left:5px;
+	 margin-right:5px;
+}
+.right{
+	float:right;
+	width:48%;
+	height:500px;
+	 margin-left:5px;
+	 margin-right:5px;
+}
+
+.textarea1{
+	width:100%;
+	height:100%;
+	margin:5px;
+	overflow:scroll;
+	 overflow-x:hidden; 
+	}
+</style>
+<script>
+	function onButton1Click(){
+		txt_in = document.getElementById("txt_in");
+		txt_out = document.getElementById("txt_out");
+		var s = txt_in.value;
+		if(s == null || ""=s")
+		{
+			alert("please input json string");
+			return;
+		}
+		for(var i=0;i<s.length;i++)
+		{
+			s.charAt(i)
+		}
+		
+		//var json = eval(txt_in.value);
+		// = txt_in.value;
+		alert(json);
+	}
+</script>
+</head>
+<body>
+<div class="head1">
+	<p>json string to gson bean string
+	<input onClick="onButton1Click();" type="button" style="height:30px;width=35px;" value="生成"/> 
+	</p>  
+</div>
+<div class="body1">
+	<div class="left">
+		<textarea id="txt_in" class="textarea1" >
+	{
+        'name': 柜体名,
+        'cell_info': [
+            {
+                type: 格口类型,
+                idle_count: 可用格口数,
+                total_count: 格口总数,
+            }
+        ]
+    }</textarea>
+	</div>
+	<div class="right">
+		<textarea id="txt_out" class="textarea1" >
+		 
+		</textarea>
+	</div>
+</div>
+</body>
+</html>
