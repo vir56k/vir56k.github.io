@@ -1,125 +1,89 @@
 {
-    "count": 20,
+    "count": 14,
     "ringList": [
         {
-            "name": "JB– What Do You Mean 适合Belieber做铃声和闹钟",
-            "desc": "JB– What Do You Mean 适合Belieber做铃声和闹钟",
-            "url": "/ringing/main0/JB– What Do You Mean 适合Belieber做铃声和闹钟.aac",
-            "length": 115061
+            "name": "38 格子兮 - 采梦女",
+            "desc": "38 格子兮 - 采梦女",
+            "url": "/ringing/main2/38 格子兮 - 采梦女.mp3",
+            "length": 1520975
         },
         {
-            "name": "唯美音符~KOKIA-I catch a cold",
-            "desc": "唯美音符~KOKIA-I catch a cold",
-            "url": "/ringing/main0/唯美音符~KOKIA-I catch a cold.mp3",
-            "length": 694461
+            "name": "48 走在冷风中 - 周二珂",
+            "desc": "48 走在冷风中 - 周二珂",
+            "url": "/ringing/main2/48 走在冷风中 - 周二珂.mp3",
+            "length": 778752
         },
         {
-            "name": "喜欢的就是这种感觉~-umbrella",
-            "desc": "喜欢的就是这种感觉~-umbrella",
-            "url": "/ringing/main0/喜欢的就是这种感觉~-umbrella.mp3",
-            "length": 1064773
+            "name": "57 孙俪、李健 - 风吹麦浪",
+            "desc": "57 孙俪、李健 - 风吹麦浪",
+            "url": "/ringing/main2/57 孙俪、李健 - 风吹麦浪.mp3",
+            "length": 2283318
         },
         {
-            "name": "大气女声很有震撼力",
-            "desc": "大气女声很有震撼力",
-            "url": "/ringing/main0/大气女声很有震撼力.mp3",
-            "length": 723927
+            "name": "64 颜小健 - 读爱",
+            "desc": "64 颜小健 - 读爱",
+            "url": "/ringing/main2/64 颜小健 - 读爱.mp3",
+            "length": 2589461
         },
         {
-            "name": "大自然 Don't Look Down 铃声",
-            "desc": "大自然 Don't Look Down 铃声",
-            "url": "/ringing/main0/大自然 Don't Look Down 铃声.mp3",
-            "length": 1767340
+            "name": "67 Nicoleta Matei - Love Mail",
+            "desc": "67 Nicoleta Matei - Love Mail",
+            "url": "/ringing/main2/67 Nicoleta Matei - Love Mail.mp3",
+            "length": 2714377
         },
         {
-            "name": "大赞 good time 铃声剪接",
-            "desc": "大赞 good time 铃声剪接",
-            "url": "/ringing/main0/大赞 good time 铃声剪接.mp3",
-            "length": 1441332
+            "name": "伍思凯-特别的爱给特别的你",
+            "desc": "伍思凯-特别的爱给特别的你",
+            "url": "/ringing/main2/伍思凯-特别的爱给特别的你.mp3",
+            "length": 647650
         },
         {
-            "name": "好听的声音 I am so lonely",
-            "desc": "好听的声音 I am so lonely",
-            "url": "/ringing/main0/好听的声音 I am so lonely.mp3",
-            "length": 286533
+            "name": "张震岳-爱我别走",
+            "desc": "张震岳-爱我别走",
+            "url": "/ringing/main2/张震岳-爱我别走.mp3",
+            "length": 686520
         },
         {
-            "name": "如果我就此忘了你,你会不会觉得难呼吸",
-            "desc": "如果我就此忘了你,你会不会觉得难呼吸",
-            "url": "/ringing/main0/如果我就此忘了你,你会不会觉得难呼吸.mp3",
-            "length": 483392
+            "name": "朴树-那些花儿",
+            "desc": "朴树-那些花儿",
+            "url": "/ringing/main2/朴树-那些花儿.mp3",
+            "length": 518918
         },
         {
-            "name": "很棒的欧美铃音Jem-Its Amazing",
-            "desc": "很棒的欧美铃音Jem-Its Amazing",
-            "url": "/ringing/main0/很棒的欧美铃音Jem-Its Amazing.mp3",
-            "length": 621736
+            "name": "欧美140 Catie Mckinney - Sunrise",
+            "desc": "欧美140 Catie Mckinney - Sunrise",
+            "url": "/ringing/main2/欧美140 Catie Mckinney - Sunrise.mp3",
+            "length": 1525761
         },
         {
-            "name": "很美的前奏,越听越想听",
-            "desc": "很美的前奏,越听越想听",
-            "url": "/ringing/main0/很美的前奏,越听越想听.mp3",
-            "length": 420698
+            "name": "欧美40 Marie Serneholt - Calling All T 1",
+            "desc": "欧美40 Marie Serneholt - Calling All T 1",
+            "url": "/ringing/main2/欧美40 Marie Serneholt - Calling All T 1.mp3",
+            "length": 1601013
         },
         {
-            "name": "暴走 Shots 铃声剪接",
-            "desc": "暴走 Shots 铃声剪接",
-            "url": "/ringing/main0/暴走 Shots 铃声剪接.mp3",
-            "length": 1675807
+            "name": "欧美rnb pink",
+            "desc": "欧美rnb pink",
+            "url": "/ringing/main2/欧美rnb pink.mp3",
+            "length": 1603074
         },
         {
-            "name": "最爱的声音~Colbie Caillat-Bubbly",
-            "desc": "最爱的声音~Colbie Caillat-Bubbly",
-            "url": "/ringing/main0/最爱的声音~Colbie Caillat-Bubbly.mp3",
-            "length": 752975
+            "name": "罗文&甄妮-铁血丹心",
+            "desc": "罗文&甄妮-铁血丹心",
+            "url": "/ringing/main2/罗文&甄妮-铁血丹心.mp3",
+            "length": 355914
         },
         {
-            "name": "最适合做闹铃的声音~卫兰-Morning",
-            "desc": "最适合做闹铃的声音~卫兰-Morning",
-            "url": "/ringing/main0/最适合做闹铃的声音~卫兰-Morning.mp3",
-            "length": 565730
+            "name": "许茹芸-独角戏",
+            "desc": "许茹芸-独角戏",
+            "url": "/ringing/main2/许茹芸-独角戏.mp3",
+            "length": 550683
         },
         {
-            "name": "林忆莲-至少还有你",
-            "desc": "林忆莲-至少还有你",
-            "url": "/ringing/main0/林忆莲-至少还有你.mp3",
-            "length": 495512
-        },
-        {
-            "name": "欧美范十足的劲舞团音乐-I Could Be The One",
-            "desc": "欧美范十足的劲舞团音乐-I Could Be The One",
-            "url": "/ringing/main0/欧美范十足的劲舞团音乐-I Could Be The One.mp3",
-            "length": 923085
-        },
-        {
-            "name": "欧美超美的声音2016-02-23",
-            "desc": "欧美超美的声音2016-02-23",
-            "url": "/ringing/main0/欧美超美的声音2016-02-23.mp3",
-            "length": 573253
-        },
-        {
-            "name": "汪苏泷又一好听歌曲1",
-            "desc": "汪苏泷又一好听歌曲1",
-            "url": "/ringing/main0/汪苏泷又一好听歌曲1.mp3",
-            "length": 915143
-        },
-        {
-            "name": "童声和音~Daz Sampson-Teenage Life",
-            "desc": "童声和音~Daz Sampson-Teenage Life",
-            "url": "/ringing/main0/童声和音~Daz Sampson-Teenage Life.mp3",
-            "length": 373034
-        },
-        {
-            "name": "费玉清-一剪梅",
-            "desc": "费玉清-一剪梅",
-            "url": "/ringing/main0/费玉清-一剪梅.mp3",
-            "length": 442850
-        },
-        {
-            "name": "韩语歌曲-动感-好听",
-            "desc": "韩语歌曲-动感-好听",
-            "url": "/ringing/main0/韩语歌曲-动感-好听.mp3",
-            "length": 426131
+            "name": "韩国-徐英恩 - 我比任何人都爱你17",
+            "desc": "韩国-徐英恩 - 我比任何人都爱你17",
+            "url": "/ringing/main2/韩国-徐英恩 - 我比任何人都爱你17.mp3",
+            "length": 279195
         }
     ]
 }
