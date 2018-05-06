@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2",
+    "globalization_name": "couple",
+    "chinese_name": "情侣",
+    "channelIcon": "category2.jpg",
+    "queryKey": "情侣头像",
+    "isEnable": "true"
+  },
+  {
+    "id": "3",
+    "globalization_name": "lovely",
+    "chinese_name": "可爱",
+    "channelIcon": "category2.jpg",
+    "queryKey": "头像 不同风格 可爱 萌萌",
+    "isEnable": "true"
+  }
+]
