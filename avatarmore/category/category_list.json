@@ -11,7 +11,7 @@
     "id": "3",
     "globalization_name": "lovely",
     "chinese_name": "可爱",
-    "channelIcon": "https://vir56k.github.io/avatarmore/category/category2.jpg",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/catgory3.png",
     "queryKey": "头像 不同风格 可爱 萌萌",
     "isEnable": "true"
   },
@@ -19,7 +19,7 @@
     "id": "4",
     "globalization_name": "animation",
     "chinese_name": "卡通",
-    "channelIcon": "https://vir56k.github.io/avatarmore/category/category2.jpg",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_katong.png",
     "queryKey": "头像 卡通",
     "isEnable": "true"
   },
@@ -27,7 +27,7 @@
     "id": "5",
     "globalization_name": "girls",
     "chinese_name": "女生",
-    "channelIcon": "https://vir56k.github.io/avatarmore/category/category2.jpg",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_nvsheng.jpg",
     "queryKey": "头像 女生",
     "isEnable": "true"
   },
