@@ -9,30 +9,6 @@
   },
   {
     "id": "3",
-    "globalization_name": "lovely",
-    "chinese_name": "可爱",
-    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_keai2.jpg",
-    "queryKey": "头像 不同风格 可爱 萌萌",
-    "isEnable": "true"
-  },
-  {
-    "id": "4",
-    "globalization_name": "weimei",
-    "chinese_name": "唯美",
-    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_weimei.jpg",
-    "queryKey": "头像 唯美",
-    "isEnable": "true"
-  },
-  {
-    "id": "5",
-    "globalization_name": "animation",
-    "chinese_name": "卡通",
-    "channelIcon": "https://vir56k.github.io/avatarmore/category/katong.jpg",
-    "queryKey": "头像 卡通",
-    "isEnable": "true"
-  },
-  {
-    "id": "6",
     "globalization_name": "girls",
     "chinese_name": "女生",
     "channelIcon": "https://vir56k.github.io/avatarmore/category/category_nvsheng.jpg",
@@ -40,11 +16,35 @@
     "isEnable": "true"
   },
   {
-    "id": "7",
+    "id": "4",
     "globalization_name": "boys",
     "chinese_name": "男生",
     "channelIcon": "https://vir56k.github.io/avatarmore/category/category_nan_sheng.jpg",
     "queryKey": "头像 男生",
+    "isEnable": "true"
+  },
+  {
+    "id": "5",
+    "globalization_name": "lovely",
+    "chinese_name": "可爱",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_keai2.jpg",
+    "queryKey": "头像 不同风格 可爱 萌萌",
+    "isEnable": "true"
+  },
+  {
+    "id": "6",
+    "globalization_name": "weimei",
+    "chinese_name": "唯美",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_weimei.jpg",
+    "queryKey": "头像 唯美",
+    "isEnable": "true"
+  },
+  {
+    "id": "7",
+    "globalization_name": "animation",
+    "chinese_name": "卡通",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/katong.jpg",
+    "queryKey": "头像 卡通",
     "isEnable": "true"
   },
   {
@@ -57,6 +57,14 @@
   },
   {
     "id": "9",
+    "globalization_name": "feizhuliu",
+    "chinese_name": "非主流",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/feizhuliu.jpeg",
+    "queryKey": "头像 非主流",
+    "isEnable": "true"
+  },
+  {
+    "id": "10",
     "globalization_name": "celebrity",
     "chinese_name": "明星",
     "channelIcon": "https://vir56k.github.io/avatarmore/category/category_mingxing.jpg",
@@ -64,19 +72,11 @@
     "isEnable": "true"
   },
   {
-    "id": "10",
-    "globalization_name": "child",
-    "chinese_name": "小孩",
-    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_child.jpg",
-    "queryKey": "头像 小孩",
-    "isEnable": "true"
-  },
-  {
     "id": "11",
-    "globalization_name": "animal",
-    "chinese_name": "动物",
-    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_animal.jpg",
-    "queryKey": "头像 动物 个性",
+    "globalization_name": "network_red",
+    "chinese_name": "网络红人",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/wangluohongren.jpeg",
+    "queryKey": "头像 网络红人",
     "isEnable": "true"
   },
   {
@@ -105,18 +105,18 @@
   },
   {
     "id": "15",
-    "globalization_name": "network_red",
-    "chinese_name": "网络红人",
-    "channelIcon": "https://vir56k.github.io/avatarmore/category/wangluohongren.jpeg",
-    "queryKey": "头像 网络红人",
+    "globalization_name": "child",
+    "chinese_name": "小孩",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_child.jpg",
+    "queryKey": "头像 小孩",
     "isEnable": "true"
   },
   {
     "id": "16",
-    "globalization_name": "feizhuliu",
-    "chinese_name": "非主流",
-    "channelIcon": "https://vir56k.github.io/avatarmore/category/feizhuliu.jpeg",
-    "queryKey": "头像 非主流",
+    "globalization_name": "animal",
+    "chinese_name": "动物",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_animal.jpg",
+    "queryKey": "头像 动物 个性",
     "isEnable": "true"
   }
 ]
