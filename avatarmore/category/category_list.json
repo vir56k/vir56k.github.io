@@ -17,7 +17,7 @@
   },
   {
     "id": "4",
-    "globalization_name": "television",
+    "globalization_name": "weimei",
     "chinese_name": "唯美",
     "channelIcon": "https://vir56k.github.io/avatarmore/category/category_weimei.jpg",
     "queryKey": "头像 唯美",
@@ -27,7 +27,7 @@
     "id": "5",
     "globalization_name": "animation",
     "chinese_name": "卡通",
-    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_katong.jpg",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/katong.jpg",
     "queryKey": "头像 卡通",
     "isEnable": "true"
   },
