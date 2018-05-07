@@ -110,5 +110,13 @@
     "channelIcon": "https://vir56k.github.io/avatarmore/category/wangluohongren.jpeg",
     "queryKey": "头像 网络红人",
     "isEnable": "true"
+  },
+  {
+    "id": "16",
+    "globalization_name": "feizhuliu",
+    "chinese_name": "非主流",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/feizhuliu.jpeg",
+    "queryKey": "头像 非主流",
+    "isEnable": "true"
   }
 ]
