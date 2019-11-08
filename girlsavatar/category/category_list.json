@@ -118,5 +118,13 @@
     "channelIcon": "https://vir56k.github.io/avatarmore/category/category_animal.jpg",
     "queryKey": "头像 动物 个性",
     "isEnable": "true"
+  },
+  {
+    "id": "17",
+    "name": "popular",
+    "chineseName": "热门",
+    "channelIcon": "https://vir56k.github.io/girlsavatar/today/hot/hot4.jpeg",
+    "queryKey": "头像 热门头像动漫女生",
+    "isEnable": "true"
   }
 ]
