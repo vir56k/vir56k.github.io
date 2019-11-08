@@ -1,0 +1,122 @@
+[
+  {
+    "id": "2",
+    "name": "couple",
+    "chineseName": "情侣",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category2.jpg",
+    "queryKey": "情侣头像",
+    "isEnable": "true"
+  },
+  {
+    "id": "3",
+    "name": "girls",
+    "chineseName": "女生",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_nvsheng.jpg",
+    "queryKey": "头像 女生",
+    "isEnable": "true"
+  },
+  {
+    "id": "4",
+    "name": "boys",
+    "chineseName": "男生",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_nan_sheng.jpg",
+    "queryKey": "头像 男生",
+    "isEnable": "true"
+  },
+  {
+    "id": "5",
+    "name": "lovely",
+    "chineseName": "可爱",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_keai2.jpg",
+    "queryKey": "头像 不同风格 可爱 萌萌",
+    "isEnable": "true"
+  },
+  {
+    "id": "6",
+    "name": "weimei",
+    "chineseName": "唯美",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_weimei.jpg",
+    "queryKey": "头像 唯美",
+    "isEnable": "true"
+  },
+  {
+    "id": "7",
+    "name": "animation",
+    "chineseName": "卡通",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/katong.jpg",
+    "queryKey": "头像 卡通",
+    "isEnable": "true"
+  },
+  {
+    "id": "8",
+    "name": "cartoon",
+    "chineseName": "漫画",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_manhua.jpg",
+    "queryKey": "头像 漫画",
+    "isEnable": "true"
+  },
+  {
+    "id": "9",
+    "name": "feizhuliu",
+    "chineseName": "非主流",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/feizhuliu.jpeg",
+    "queryKey": "头像 非主流",
+    "isEnable": "true"
+  },
+  {
+    "id": "10",
+    "name": "celebrity",
+    "chineseName": "明星",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_mingxing.jpg",
+    "queryKey": "头像 明星头像",
+    "isEnable": "true"
+  },
+  {
+    "id": "11",
+    "name": "network_red",
+    "chineseName": "网络红人",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/wangluohongren.jpeg",
+    "queryKey": "头像 网络红人",
+    "isEnable": "true"
+  },
+  {
+    "id": "12",
+    "name": "one_piece",
+    "chineseName": "海贼王",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_one_piece.jpg",
+    "queryKey": "头像 海贼王",
+    "isEnable": "true"
+  },
+  {
+    "id": "13",
+    "name": "naruto",
+    "chineseName": "火影",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_huoying2.jpg",
+    "queryKey": "头像 火影",
+    "isEnable": "true"
+  },
+  {
+    "id": "14",
+    "name": "crooked_neck",
+    "chineseName": "歪脖子",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_waibozi.jpg",
+    "queryKey": "头像 歪脖子",
+    "isEnable": "true"
+  },
+  {
+    "id": "15",
+    "name": "child",
+    "chineseName": "小孩",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_child.jpg",
+    "queryKey": "头像 小孩",
+    "isEnable": "true"
+  },
+  {
+    "id": "16",
+    "name": "animal",
+    "chineseName": "动物",
+    "channelIcon": "https://vir56k.github.io/avatarmore/category/category_animal.jpg",
+    "queryKey": "头像 动物 个性",
+    "isEnable": "true"
+  }
+]
